@@ -11,3 +11,4 @@ To update the password user needs to provide the current password and new passwo
 To update email, user needs to very the new email by providing the otp received in the new email.
 
 
+<img src="./api-docs.png">
