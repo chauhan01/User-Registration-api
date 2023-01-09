@@ -1,0 +1,14 @@
+# User-Registration-api
+
+This is a user Registration api with protected routes.
+
+First user have to register and login and verify the email by clicking on the link received in the email.
+
+This api severs the functionality to update the user name, email and password. But these routes are protected by authentication token and can only be accessed after login.
+
+To update the password user needs to provide the current password and new password. Password will only be updated if the current password is correct.
+
+To update email, user needs to very the new email by providing the otp received in the new email.
+
+
+<img src="https://images.unsplash.com/photo-1661956600684-97d3a4320e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
