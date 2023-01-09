@@ -10,4 +10,4 @@ To update the password user needs to provide the current password and new passwo
 
 To update email, user needs to very the new email by providing the otp received in the new email.
 
-![API DOCS] https://github.com/chauhan01/User-Registration-api/blob/main/api%20docs.png
+![API DOCS] (https://github.com/chauhan01/User-Registration-api/blob/main/api%20docs.png?raw=true)
